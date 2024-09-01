@@ -1,0 +1,7 @@
+{
+   "python.analysis.typeCheckingMode": "basic",
+   "python.analysis.autoImportCompletions": true,
+   "python.testing.pytestArgs": ["mysite"],
+   "python.testing.unittestEnabled": false,
+   "python.testing.pytestEnabled": true
+}
